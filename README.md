@@ -1,2 +1,2 @@
 # python-template
-Repo to test templates on Python projects
+Repository to test layouts on python projects
